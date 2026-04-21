@@ -1,1 +1,1 @@
-1.0.5|https://github.com/adrose72/eczanem/releases/download/v1.0.1/EczaneYoneticisi.exe|3706FF7AB4D01DD1C9224E12924F65C07E11BA91DAAFE0F00D044D01D59C5815
+1.0.5|https://github.com/adrose72/eczanem/releases/download/v1.0.1/EczaneYoneticisi.exe|E9A6DE68BA4341CC9E790B891401A13A601D40810155AC232B2812F8123C1DEC
